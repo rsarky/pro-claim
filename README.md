@@ -1,6 +1,6 @@
 # pro-claim
 
-> A GitHub App built with [probot](https://github.com/probot/probot) that automatically assigns a contributor to an issue that he/she 'claims' for.
+> A GitHub App built with [probot](https://github.com/probot/probot) that automatically assigns a contributor to an issue that he/she 'claims' for. Inspired by [zulipbot](https://github.com/zulip/zulipbot)
 
 ## Setup
 
