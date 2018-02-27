@@ -11,6 +11,17 @@ Install pro-claim on your repository. For any aspiring contributor to claim an i
 
 This will assign the user to the issue.
 
+## Todo
+- [ ] Add templates with appropriate messages.
+  - [ ] First time contributor message. (Accept invite.)
+  - [ ] Issue Assigned message.
+  - [ ] Issue Unassigned message.
+  - [ ] Issue already assigned message.
+  - [ ] Unassign after inactivity message.
+- [ ] Add tests.
+- [ ] Unassign assignee after a period of inactivity.
+- [ ] Only assign to issues with certain labels ( good-first-issue/first-timers-only)
+
 ## Setup
 
 ```
