@@ -9,7 +9,7 @@ Useful for open source organizations who want to allow aspiring contributors to 
 ## Usage
 
 Install pro-claim on your repository. For any aspiring contributor to claim an issue he/she must comment :
->pro-claim claim
+>@pro-claim claim
 
 This will assign the user to the issue.
 
