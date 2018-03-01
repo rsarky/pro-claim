@@ -12,7 +12,8 @@ Install pro-claim on your repository. For any aspiring contributor to claim an i
 >pro-claim claim
 
 This will assign the user to the issue.
-_NOTE_
+
+### NOTE
 * Only one assignee per issue is allowed.
 * First time contributors need to accept an invite that makes them a read only collaborator so that they can be assigned issues.
 
