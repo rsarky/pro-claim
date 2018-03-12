@@ -17,6 +17,15 @@ This will assign the user to the issue.
 * Only one assignee per issue is allowed.
 * First time contributors need to accept an invite that makes them a read only collaborator so that they can be assigned issues.
 
+## Screenshots
+
+Assigning issues :
+![Assigning issues]
+(https://drive.google.com/open?id=1EWqbUOAoilVKV3hB_k5fa0lD5KIGGA9u)
+
+If Issue already has an assignee:
+![Preassigned]
+(https://drive.google.com/open?id=1H3RO0vZlYfGmfQYGE-pfm8dBbX7OyWUp)
 
 ## Todo
 - [ ] Add templates with appropriate messages.
