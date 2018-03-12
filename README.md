@@ -20,10 +20,12 @@ This will assign the user to the issue.
 ## Screenshots
 
 Assigning issues :
+
 ![Assigning issues]
 (https://drive.google.com/open?id=1EWqbUOAoilVKV3hB_k5fa0lD5KIGGA9u)
 
 If Issue already has an assignee:
+
 ![Preassigned]
 (https://drive.google.com/open?id=1H3RO0vZlYfGmfQYGE-pfm8dBbX7OyWUp)
 
