@@ -21,13 +21,14 @@ This will assign the user to the issue.
 
 Assigning issues :
 
-![Assigning issues]
-(https://drive.google.com/open?id=1EWqbUOAoilVKV3hB_k5fa0lD5KIGGA9u)
+![Assigning-issues][]
 
 If Issue already has an assignee:
 
-![Preassigned]
-(https://drive.google.com/open?id=1H3RO0vZlYfGmfQYGE-pfm8dBbX7OyWUp)
+![Preassigned][]
+
+[Assigning-issues]: https://drive.google.com/open?id=1EWqbUOAoilVKV3hB_k5fa0lD5KIGGA9u
+[Preassigned]: https://drive.google.com/open?id=1H3RO0vZlYfGmfQYGE-pfm8dBbX7OyWUp
 
 ## Todo
 - [ ] Add templates with appropriate messages.
