@@ -27,8 +27,8 @@ If Issue already has an assignee:
 
 ![Preassigned][]
 
-[Assigning-issues]: https://drive.google.com/open?id=1EWqbUOAoilVKV3hB_k5fa0lD5KIGGA9u
-[Preassigned]: https://drive.google.com/open?id=1H3RO0vZlYfGmfQYGE-pfm8dBbX7OyWUp
+[Assigning-issues]: ./screenshots/assign-issue.png
+[Preassigned]: ./screenshots/issue-already-assigned.png
 
 ## Todo
 - [ ] Add templates with appropriate messages.
