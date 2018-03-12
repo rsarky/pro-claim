@@ -19,6 +19,10 @@ This will assign the user to the issue.
 
 ## Screenshots
 
+If user is a new contributor :
+
+![new-contributor][]
+
 Assigning issues :
 
 ![Assigning-issues][]
@@ -29,6 +33,7 @@ If Issue already has an assignee:
 
 [Assigning-issues]: ./screenshots/assign-issue.png
 [Preassigned]: ./screenshots/issue-already-assigned.png
+[new-contributor]: ./screenshots/new-contributor.png
 
 ## Todo
 - [ ] Add templates with appropriate messages.
